@@ -1,5 +1,5 @@
 
-## E-commerce Website UI/UX Design Repository
+## E-commerce Website UI/UX Design 
 Welcome to our E-commerce website UI/UX design repository! Here, we present a meticulously crafted design aimed at providing users with a seamless and engaging shopping experience. Our design incorporates modern principles and intuitive interfaces to ensure a delightful journey for shoppers.
 
 ## Features
